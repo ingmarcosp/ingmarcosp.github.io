@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Quién es Marcos P.?
+permalink: /about-me/
 ---
+![Marcos P.](../images/fprofile.png "Marcos P."){:.customimg}
+# <center>Marcos M. Puchetta</center>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Futuro Ingeniero en Informática, tecnológicamente inquieto, programador freelancer junior en los lenguajes de Python, Java. Alguno de mis hobbies son el Rugby, la Decoración y el Blog. Actualmente resido en España, este Blog y algunas redes sociales, como en:
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+LinkedIn: [Marcos Miguel Puchetta](https://www.linkedin.com/in/ingmarcosp)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Twitter: [@ing_marcosp](https://twitter.com/ing_marcosp)
+
+GitHub: [github.com/ingmarcosp](https://github.com/ingmarcosp)

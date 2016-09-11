@@ -37,3 +37,19 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+// custom css
+//Images class
+.customimg {
+    margin: 0 auto;
+    display: block;
+    width: 250px;
+}
+
+.site-header {
+    background-color: aliceblue;
+}
+
+.site-footer {
+    background-color: aliceblue;
+}
