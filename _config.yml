@@ -14,7 +14,7 @@ github_username: ingmarcosp
 description: > #pass
   El objetivo es plasmar vivencias como desarrollador, administrador, usuario. Participativo, abierto a opiniones y comentarios. Servir de carta de presentación, un nexo entre las redes sociales pero que brinda nuevo contenido útil para el día a día y todo tipo de usuarios.
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ingmarcosp.github.io" # the base hostname & protocol for your site
 permalink: /post/:title
 
